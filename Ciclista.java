@@ -34,8 +34,4 @@ public abstract class Ciclista {
         System.out.println("Nombre = " +nombre);
         System.out.println("Tiempo Acumulado = " +tiempoAcumulado);
     }
-
-    
-
-    
 }
